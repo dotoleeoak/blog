@@ -1,0 +1,17 @@
+gitConfig:
+  pull.rebase: 'true'
+  commit.gpgsign: 'true'
+
+ports:
+  - port: 3000
+    onOpen: open-browser
+
+tasks:
+  - init: pnpm install
+
+vscode:
+  extensions:
+    - esbenp.prettier-vscode
+    - editorconfig.editorconfig
+    - johnsoncodehk.volar
+    - johnsoncodehk.vscode-typescript-vue-plugin
