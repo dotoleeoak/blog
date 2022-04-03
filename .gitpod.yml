@@ -11,7 +11,9 @@ tasks:
 
 vscode:
   extensions:
-    - esbenp.prettier-vscode
+    - bradlc.vscode-tailwindcss
+    - csstools.postcss
     - editorconfig.editorconfig
+    - esbenp.prettier-vscode
     - johnsoncodehk.volar
     - johnsoncodehk.vscode-typescript-vue-plugin
