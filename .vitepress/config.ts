@@ -4,5 +4,13 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "dotoleeoak's home",
-  description: '민트초코를 싫어하는 minchoi'
+  description: '민트초코를 싫어하는 minchoi',
+  vite: {
+    server: {
+      hmr: {
+        // hmr websocket port for gitpod
+        clientPort: process.env.GITPOD_HOST ? 443 : undefined
+      }
+    }
+  }
 })
