@@ -1,7 +1,7 @@
 module.exports = {
-  content: ['.vitepress/**/*.{html,ts,vue}'],
+  content: ['./.vitepress/**/*.{html,ts,vue}'],
   theme: {
     extend: {}
   },
-  plugins: []
+  plugins: [require('@tailwindcss/typography')]
 }
