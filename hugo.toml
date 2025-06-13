@@ -1,6 +1,7 @@
 baseURL = 'https://dotoleeoak.me/'
 languageCode = 'en-us'
 title = 'Jaemin Choi'
+googleAnalytics = 'G-268FF6M4DY'
 
 [module]
 [[module.imports]]
