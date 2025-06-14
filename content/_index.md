@@ -11,3 +11,4 @@ I believe that good systems can significantly enhance team productivity, unleash
 
 - GitHub: [@dotoleeoak](https://github.com/dotoleeoak)
 - LinkedIn: [@dotoleeoak](https://www.linkedin.com/in/dotoleeoak)
+- Email: [1dotolee@gmail.com](mailto:1dotolee@gmail.com)
