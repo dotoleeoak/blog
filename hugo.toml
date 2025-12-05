@@ -20,3 +20,6 @@ url = "/resume/"
 
 [params]
 showtoc = false
+
+[markup.highlight]
+style = "github-dark"
