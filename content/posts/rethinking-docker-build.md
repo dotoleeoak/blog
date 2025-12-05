@@ -1,5 +1,5 @@
 ---
-title: Rethinking building Docker image with Bazel
+title: Rethinking Docker build by Bazel
 date: 2025-12-04
 description: Compare Dockerfile and rules_oci approaches to build container images.
 ---
